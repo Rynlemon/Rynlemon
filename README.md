@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rynlemon)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### GitHub Statistics
+
+<span>
+  <a href="https://www.github.com/Rynlemon">
+     <img src="https://github-readme-stats.vercel.app/api?username=Rynlemon&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
+  </a>
+</span>
